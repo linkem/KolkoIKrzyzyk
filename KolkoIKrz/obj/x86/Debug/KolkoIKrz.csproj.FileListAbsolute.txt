@@ -1,0 +1,17 @@
+C:\WebServ\httpd\aforta\aforta\aforta\templata\KolkoIKrz\KolkoIKrz\bin\Debug\KolkoIKrz.exe
+C:\WebServ\httpd\aforta\aforta\aforta\templata\KolkoIKrz\KolkoIKrz\bin\Debug\KolkoIKrz.pdb
+C:\WebServ\httpd\aforta\aforta\aforta\templata\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.Form1.resources
+C:\WebServ\httpd\aforta\aforta\aforta\templata\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.Properties.Resources.resources
+C:\WebServ\httpd\aforta\aforta\aforta\templata\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.csproj.GenerateResource.Cache
+C:\WebServ\httpd\aforta\aforta\aforta\templata\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.exe
+C:\WebServ\httpd\aforta\aforta\aforta\templata\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.pdb
+G:\Dokumenty\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.exe
+G:\Dokumenty\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.pdb
+E:\cs\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.exe
+E:\cs\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.pdb
+E:\cs\KolkoIKrz\KolkoIKrz\bin\Debug\KolkoIKrz.exe
+E:\cs\KolkoIKrz\KolkoIKrz\bin\Debug\KolkoIKrz.pdb
+E:\cs\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.csprojResolveAssemblyReference.cache
+E:\cs\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.Form1.resources
+E:\cs\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.Properties.Resources.resources
+E:\cs\KolkoIKrz\KolkoIKrz\obj\x86\Debug\KolkoIKrz.csproj.GenerateResource.Cache
